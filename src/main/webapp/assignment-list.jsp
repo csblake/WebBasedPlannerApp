@@ -6,6 +6,14 @@
 <head>
 <meta charset="UTF-8">
 <title>Assignment List</title>
+
+<style>
+
+	body {
+		background-color: lightblue;
+	}
+
+</style>
 </head>
 <body>
 

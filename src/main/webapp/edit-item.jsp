@@ -6,6 +6,14 @@
 <head>
 <meta charset="UTF-8">
 <title>Edit Item Page</title>
+
+<style>
+
+	body {
+		background-color: lightblue;
+	}
+
+</style>
 </head>
 <body>
 
