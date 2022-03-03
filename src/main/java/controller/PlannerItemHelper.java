@@ -11,7 +11,7 @@ import model.PlannerItem;
 
 public class PlannerItemHelper {
 	
-	static EntityManagerFactory emfactory = Persistence.createEntityManagerFactory("Planner");
+	static EntityManagerFactory emfactory = Persistence.createEntityManagerFactory("WebBasedPlannerApp");
 
 
 	public void deleteItem(PlannerItem toDelete) {
